@@ -34,6 +34,9 @@ Finally, the notebook concatenates the processed categorical and numerical data 
 In conclusion, this notebook demonstrates a well-structured data preprocessing pipeline using Jupyter Notebook. It includes essential steps such as data cleaning, encoding, transformation, and integration. This structured approach ensures that the dataset is clean, consistent, and ready for modeling or further statistical analysis.
 
 
+*OUTPUT* -- TASK 1
+![Image](https://github.com/user-attachments/assets/4c99cd9d-0611-45bd-a732-4527f1f75c10)
+
 
 
 
